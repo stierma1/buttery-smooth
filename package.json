@@ -1,0 +1,30 @@
+{
+  "name": "buttery-smooth",
+  "version": "1.0.0",
+  "description": "Pull down data objects like butter",
+  "main": "index.js",
+  "bin": {
+    "buttery-smooth": "./bin/buttery-smooth.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "commander": "^2.10.0",
+    "pouchdb": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/buttery-smooth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/buttery-smooth/issues"
+  },
+  "homepage": "https://github.com/stierma1/buttery-smooth#readme"
+}
